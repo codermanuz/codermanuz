@@ -12,6 +12,6 @@
 <ul>
 <li><a target="_blank" href="https://t.me/Muhammad_Rasul_Nematxonov">My Telegram</a></li>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.instagram.com/gmrk_rev" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p><a target="_blank" href="https://www.instagram.com/loya1ist_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=codermanuz&show_icons=true&locale=en" alt="codermanuz" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codermanuz&" alt="codermanuz" /></p>
